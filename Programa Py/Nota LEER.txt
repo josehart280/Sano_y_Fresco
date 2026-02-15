@@ -1,0 +1,3 @@
+El programa a la hora de subirlo Funciona al 100%
+
+Si no te funciona asegurate de que este bien instaladas las librerias

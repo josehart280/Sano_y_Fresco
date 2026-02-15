@@ -1,0 +1,9 @@
+En caso de que el Dashboard no funcione, Recuerda que debes poner los datos necesarios y cargar la base de datos SQLite3
+Para que el dashboard funcione sin problemas
+=====================
+
+	NOTA
+=====================
+
+Para que la segunda hoja de reportes se vea normal hay que cargar el resultado en la carpeta programa llamada "reglas.csv" ya que contiene
+todo el contenido de las reglas para analisis siguiento el algoritmo Basket Market
